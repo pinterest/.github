@@ -5,6 +5,7 @@ contains the canonical copies of common files for licensing, contribution,
 etc.
 
 - [`LICENSE`](LICENSE) - our standard [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) - contributing guide
 
 ## Licensing
 
@@ -44,3 +45,15 @@ Large projects may also use a shorter per-file copyright header, such as:
 
 Lastly, please ensure that the `LICENSE` file is included as part of all
 release packages and distribution archives, including things like JAR files.
+
+## Contributions
+
+It's helpful to add a [`CONTRIBUTING.md`](CONTRIBUTING.md) file to help
+potential contributors understand how the project works. This is a good place
+to describe the contribution process, style guide, and testing requirements.
+
+The template provided here is a good starting point, but definitely customize
+it from your project. Check out [`elixir-thrift/CONTRIBUTING.md`][et-contrib]
+as an example.
+
+[et-contrib]: https://github.com/pinterest/elixir-thrift/blob/master/CONTRIBUTING.md
