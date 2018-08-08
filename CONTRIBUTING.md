@@ -19,11 +19,11 @@ maintainers will merge your contribution.
 
 To increase the chances that your pull request will be accepted:
 
-- Follow our [style guide](#style)
+- Follow the coding style
 - Write tests for your changes
 - Write a good commit message
 
-## Style
+## Coding Style
 
 ## Testing
 
