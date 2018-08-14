@@ -37,7 +37,7 @@ such as:
 Large projects may also use a shorter per-file copyright header, such as:
 
     /**
-     * Copyright (c) [yyyy]-present, Pinterest, Inc.
+     * Copyright [yyyy]-present, Pinterest, Inc.
      *
      * This source code is licensed under the Apache License, Version 2.0
      * found in the LICENSE file in the root directory of this source tree.
