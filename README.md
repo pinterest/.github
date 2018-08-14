@@ -4,8 +4,9 @@ This repository serves as a template for Pinterest's open source projects. It
 contains the canonical copies of common files for licensing, contribution,
 etc.
 
-- [`LICENSE`](LICENSE) - our standard [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
+- [`ADOPTERS.md`](ADOPTERS.md) - list project adopters
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) - contributing guide
+- [`LICENSE`](LICENSE) - our standard [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Licensing
 
@@ -45,6 +46,22 @@ Large projects may also use a shorter per-file copyright header, such as:
 
 Lastly, please ensure that the `LICENSE` file is included as part of all
 release packages and distribution archives, including things like JAR files.
+
+## Adopters
+
+You can also include an [`ADOPTERS.md`](ADOPTERS.md) file to list people and
+organizations who are using the project. This can be a good way to demonstrate
+a project's popularity.
+
+In general, it's best for adopters to add themselves to the list via a Pull
+Request, but project maintainers can also add to the list on their behalf
+if they receive permission.
+
+You can also add links to sites such as [AppSight][] and [StackShare][] if you
+think the information there is accurate.
+
+[AppSight]: https://www.appsight.io/
+[StackShare]: https://stackshare.io/
 
 ## Contributions
 
