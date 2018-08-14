@@ -4,8 +4,9 @@ This repository serves as a template for Pinterest's open source projects. It
 contains the canonical copies of common files for licensing, contribution,
 etc.
 
-- [`LICENSE`](LICENSE) - our standard [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
+- [`ADOPTERS.md`](ADOPTERS.md) - list project adopters
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) - contributing guide
+- [`LICENSE`](LICENSE) - our standard [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Licensing
 
