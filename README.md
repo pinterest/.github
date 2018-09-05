@@ -74,3 +74,8 @@ it from your project. Check out [`elixir-thrift/CONTRIBUTING.md`][et-contrib]
 as an example.
 
 [et-contrib]: https://github.com/pinterest/elixir-thrift/blob/master/CONTRIBUTING.md
+
+## Code of Conduct
+
+You should include a copy of [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) in the
+root of your project. Make sure to update [PROJECT] at the bottom.
