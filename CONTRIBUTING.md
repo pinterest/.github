@@ -11,6 +11,10 @@ Please be sure to read and understand our [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT
 We work hard to ensure that our projects are welcoming and inclusive to as many 
 people as possible.
 
+## Reporting Issues
+Please take a look at our [`ISSUE_TEMPLATE.md`](ISSUE_TEMPLATE.md) for guidance
+on reporting issues.
+
 ## Making Changes
 
 1. Fork this repository to your own account

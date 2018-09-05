@@ -79,3 +79,9 @@ as an example.
 
 You should include a copy of [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) in the
 root of your project. Make sure to update [PROJECT] at the bottom.
+
+## Issues
+
+Adding an [`ISSUE_TEMPLATE.md`](ISSUE_TEMPLATE.md) to to the hidden `.github`
+directory is a good idea. The template here is a good starting point, but
+should be edited for your project and what makes sense.
