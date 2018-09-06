@@ -5,6 +5,7 @@ contains the canonical copies of common files for licensing, contribution,
 etc.
 
 - [`ADOPTERS.md`](ADOPTERS.md) - list project adopters
+- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) - code of conduct
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) - contributing guide
 - [`LICENSE`](LICENSE) - our standard [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
 
