@@ -7,6 +7,7 @@ While this is a Pinterest open source project, we welcome contributions from
 everyone. Regular outside contributors can become project maintainers.
 
 ## Code of Conduct
+
 Please be sure to read and understand our [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
 We work hard to ensure that our projects are welcoming and inclusive to as many 
 people as possible.
