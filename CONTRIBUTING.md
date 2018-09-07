@@ -10,10 +10,6 @@ everyone. Regular outside contributors can become project maintainers.
 If you're having trouble using [PROJECT], please read the [README.md](README.md)
 and search for solutions in the existing open and closed issues.
 
-## Pinterest
-If you are having trouble using Pinterest or the Pinterest API, please
-check out the [help center](https://help.pinterest.com).
-
 ## Security
 If you've found a security issue in one of our open source projects,
 please report it at [Bugcrowd](https://bugcrowd.com/pinterest); you may even
