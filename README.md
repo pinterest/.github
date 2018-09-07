@@ -82,6 +82,5 @@ root of your project. Make sure to update [PROJECT] at the bottom.
 
 ## Issues
 
-Adding an [`ISSUE_TEMPLATE.md`](ISSUE_TEMPLATE.md) to to the hidden `.github`
-directory is a good idea. The template here should probably be rewritten for
-your project.
+Adding an issue template to `.github/ISSUE_TEMPLATE.md` directory is a good idea
+to reduce the number of non-actionable issues the project receives.

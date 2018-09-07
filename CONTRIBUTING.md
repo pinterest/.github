@@ -21,8 +21,14 @@ We work hard to ensure that our projects are welcoming and inclusive to as many
 people as possible.
 
 ## Reporting Issues
-Please take a look at our [`ISSUE_TEMPLATE.md`](.github/ISSUE_TEMPLATE.md) for guidance
-on reporting issues.
+If you have a bug report, please provide as much information as possible so that
+we can help you out:
+
+- Version of [PROJECT] you're using.
+- Code (or even better whole projects) which reproduce the issue.
+- Screenshots, GIFs or videos (if relavent)
+- Stack traces for crashes
+- Logs
 
 ## Making Changes
 
