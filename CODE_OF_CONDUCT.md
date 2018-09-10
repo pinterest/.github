@@ -26,4 +26,4 @@ Some examples of unacceptable behavior (again, this is not an exhaustive list):
 
 If you are witness to or the target of unacceptable behavior, it should be reported to Pinterest at opensource-policy@pinterest.com. All reporters will be kept confidential and an appropriate response for each incident will be evaluated.
 
-If the [PROJECT] maintainer does not uphold and enforce this code of conduct in good faith, community leadership will hold them accountable.
+If the [PROJECT] maintainers do not uphold and enforce this code of conduct in good faith, community leadership will hold them accountable.
