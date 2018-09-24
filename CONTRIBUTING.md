@@ -8,9 +8,9 @@ everyone. Regular outside contributors can become project maintainers.
 
 ## Code of Conduct
 
-Please read and understand our [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md). We
-work hard to ensure that our projects are welcoming and inclusive to as many
-people as possible.
+Please read and understand our [Code of Conduct](CODE_OF_CONDUCT.md). We work
+hard to ensure that our projects are welcoming and inclusive to as many people
+as possible.
 
 ## Making Changes
 
