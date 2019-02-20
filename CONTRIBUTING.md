@@ -29,10 +29,6 @@ To increase the chances that your pull request will be accepted:
 - Write tests for your changes
 - Write a good commit message
 
-## Coding Style
-
-## Testing
-
 ## License
 
 By contributing to this project, you agree that your contributions will be
