@@ -55,4 +55,4 @@ To increase the chances that your pull request will be accepted:
 ## License
 
 By contributing to this project, you agree that your contributions will be
-licensed under its [Apache 2 license](LICENSE).
+licensed under its [license](LICENSE).
