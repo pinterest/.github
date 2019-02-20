@@ -71,7 +71,7 @@ potential contributors understand how the project works. This is a good place
 to describe the contribution process, style guide, and testing requirements.
 
 The template provided here is a good starting point, but definitely customize
-it from your project. Check out [`elixir-thrift/CONTRIBUTING.md`][et-contrib]
+it for your project. Check out [`elixir-thrift/CONTRIBUTING.md`][et-contrib]
 as an example.
 
 [et-contrib]: https://github.com/pinterest/elixir-thrift/blob/master/CONTRIBUTING.md
