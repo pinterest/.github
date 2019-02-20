@@ -30,9 +30,10 @@ we can help you out:
 
 - Version of the project you're using.
 - Code (or even better whole projects) which reproduce the issue.
-- Screenshots, GIFs or videos (if relavent)
-- Stack traces for crashes
-- Logs
+- Steps which reproduce the issue.
+- Screenshots, GIFs or videos (if relavent).
+- Stack traces for crashes.
+- Any logs produced.
 
 ## Making Changes
 
