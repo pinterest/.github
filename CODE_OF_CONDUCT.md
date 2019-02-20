@@ -36,5 +36,5 @@ reported to Pinterest at opensource-policy@pinterest.com. All reporters will
 be kept confidential and an appropriate response for each incident will be
 evaluated.
 
-If the [PROJECT] maintainers do not uphold and enforce this code of conduct in
+If the maintainers do not uphold and enforce this code of conduct in
 good faith, community leadership will hold them accountable.
