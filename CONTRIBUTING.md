@@ -7,7 +7,7 @@ While this is a Pinterest open source project, we welcome contributions from
 everyone. Regular outside contributors can become project maintainers.
 
 ## Help
-If you're having trouble using [PROJECT], please read the [README.md](README.md)
+If you're having trouble using this project, please read the [README.md](README.md)
 and search for solutions in the existing open and closed issues.
 
 ## Security
@@ -24,7 +24,7 @@ people as possible.
 If you have a bug report, please provide as much information as possible so that
 we can help you out:
 
-- Version of [PROJECT] you're using.
+- Version of the project you're using.
 - Code (or even better whole projects) which reproduce the issue.
 - Screenshots, GIFs or videos (if relavent)
 - Stack traces for crashes
