@@ -8,7 +8,7 @@ everyone. Regular outside contributors can become project maintainers.
 
 ## Help
 
-If you're having trouble using this project, please read the [README.md](README.md)
+If you're having trouble using this project, please start by reading the [README.md](README.md)
 and searching for solutions in the existing open and closed issues.
 
 ## Security
