@@ -80,3 +80,8 @@ as an example.
 
 You should include a copy of [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) in the
 root of your project.
+
+## Issues
+
+Adding an issue template to `.github/ISSUE_TEMPLATE.md` directory is a good idea
+to reduce the number of non-actionable issues the project receives.
