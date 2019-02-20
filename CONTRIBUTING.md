@@ -20,7 +20,7 @@ make some money!
 ## Code of Conduct
 
 Please be sure to read and understand our [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
-We work hard to ensure that our projects are welcoming and inclusive to as many 
+We work hard to ensure that our projects are welcoming and inclusive to as many
 people as possible.
 
 ## Reporting Issues
