@@ -79,4 +79,4 @@ as an example.
 ## Code of Conduct
 
 You should include a copy of [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) in the
-root of your project. Make sure to update [PROJECT] at the bottom.
+root of your project.
