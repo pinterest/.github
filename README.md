@@ -33,8 +33,8 @@ For the purposes of licensing, all significant project files are considered
 "source files". However, it doesn't make sense to add license headers to files
 such as:
 
- - Short information text files (`README`, etc.)
- - Test data that would become malformed with the addition of the license text
+- Short information text files (`README`, etc.)
+- Test data that would become malformed with the addition of the license text
 
 Large projects may also use a shorter per-file copyright header, such as:
 
