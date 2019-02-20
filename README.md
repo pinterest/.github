@@ -4,7 +4,8 @@ This repository serves as a template for Pinterest's open source projects. It
 contains the canonical copies of common files for licensing, contribution,
 etc.
 
-- [`ADOPTERS.md`](ADOPTERS.md) - list project adopters
+- [`ADOPTERS.md`](ADOPTERS.md) - list of project adopters
+- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) - code of conduct
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) - contributing guide
 - [`LICENSE`](LICENSE) - our standard [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -78,7 +79,7 @@ as an example.
 ## Code of Conduct
 
 You should include a copy of [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) in the
-root of your project. Make sure to update [PROJECT] at the bottom.
+root of your project.
 
 ## Issues
 
